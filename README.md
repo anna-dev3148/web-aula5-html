@@ -7,7 +7,7 @@
 - Link: [algp_class.html]()
 
 ##  algp_id.html.
-- Link: [ algp_id.html.]()
+- Link: [algp_id.html.]()
   
 ## algp_partes.html
 - Link: [algp_partes.html]()
