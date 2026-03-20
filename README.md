@@ -3,8 +3,11 @@
 ## componentes.html
 - Link: [componentes.html](https://github.com/anna-dev3148/web-aula5-html/blob/main/componentes.html)
   
-## algp.html
-- Link: [algp.html]()
+## algp_class.html
+- Link: [algp_class.html]()
+
+##  algp_id.html.
+- Link: [ algp_id.html.]()
   
 ## algp_partes.html
 - Link: [algp_partes.html]()
